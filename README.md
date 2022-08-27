@@ -1,4 +1,3 @@
 # learnjava
-java technologies 
 
-core java
+1. java.lang.Object
